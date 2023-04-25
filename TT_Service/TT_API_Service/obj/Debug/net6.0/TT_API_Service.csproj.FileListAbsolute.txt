@@ -36,3 +36,7 @@ C:\Users\Bruger\Desktop\GitHub\Teknisk-Test-E-Komplet\TT_Service\TT_API_Service\
 C:\Users\Bruger\Desktop\GitHub\Teknisk-Test-E-Komplet\TT_Service\TT_API_Service\obj\Debug\net6.0\TT_API_Service.pdb
 C:\Users\Bruger\Desktop\GitHub\Teknisk-Test-E-Komplet\TT_Service\TT_API_Service\obj\Debug\net6.0\TT_API_Service.genruntimeconfig.cache
 C:\Users\Bruger\Desktop\GitHub\Teknisk-Test-E-Komplet\TT_Service\TT_API_Service\obj\Debug\net6.0\ref\TT_API_Service.dll
+C:\Users\Bruger\Desktop\GitHub\Teknisk-Test-E-Komplet\TT_Service\TT_API_Service\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Bruger\Desktop\GitHub\Teknisk-Test-E-Komplet\TT_Service\TT_API_Service\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Bruger\Desktop\GitHub\Teknisk-Test-E-Komplet\TT_Service\TT_API_Service\bin\Debug\net6.0\TT_DataAccess.dll
+C:\Users\Bruger\Desktop\GitHub\Teknisk-Test-E-Komplet\TT_Service\TT_API_Service\bin\Debug\net6.0\TT_DataAccess.pdb
