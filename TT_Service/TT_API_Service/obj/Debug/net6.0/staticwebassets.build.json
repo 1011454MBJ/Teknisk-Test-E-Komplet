@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rsjq4NRPIpLggoqxitvd9nu4cLQuRMepyB3zXN4mpnA=",
+  "Source": "TT_API_Service",
+  "BasePath": "_content/TT_API_Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

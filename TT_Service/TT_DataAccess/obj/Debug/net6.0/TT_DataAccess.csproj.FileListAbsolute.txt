@@ -1,0 +1,12 @@
+C:\Users\Bruger\Desktop\GitHub\Teknisk-Test-E-Komplet\TT_Service\TT_DataAccess\obj\Debug\net6.0\TT_DataAccess.csproj.AssemblyReference.cache
+C:\Users\Bruger\Desktop\GitHub\Teknisk-Test-E-Komplet\TT_Service\TT_DataAccess\obj\Debug\net6.0\TT_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Desktop\GitHub\Teknisk-Test-E-Komplet\TT_Service\TT_DataAccess\obj\Debug\net6.0\TT_DataAccess.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\GitHub\Teknisk-Test-E-Komplet\TT_Service\TT_DataAccess\obj\Debug\net6.0\TT_DataAccess.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\GitHub\Teknisk-Test-E-Komplet\TT_Service\TT_DataAccess\obj\Debug\net6.0\TT_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\GitHub\Teknisk-Test-E-Komplet\TT_Service\TT_DataAccess\bin\Debug\net6.0\TT_DataAccess.deps.json
+C:\Users\Bruger\Desktop\GitHub\Teknisk-Test-E-Komplet\TT_Service\TT_DataAccess\bin\Debug\net6.0\TT_DataAccess.dll
+C:\Users\Bruger\Desktop\GitHub\Teknisk-Test-E-Komplet\TT_Service\TT_DataAccess\bin\Debug\net6.0\TT_DataAccess.pdb
+C:\Users\Bruger\Desktop\GitHub\Teknisk-Test-E-Komplet\TT_Service\TT_DataAccess\obj\Debug\net6.0\TT_DataAccess.dll
+C:\Users\Bruger\Desktop\GitHub\Teknisk-Test-E-Komplet\TT_Service\TT_DataAccess\obj\Debug\net6.0\refint\TT_DataAccess.dll
+C:\Users\Bruger\Desktop\GitHub\Teknisk-Test-E-Komplet\TT_Service\TT_DataAccess\obj\Debug\net6.0\TT_DataAccess.pdb
+C:\Users\Bruger\Desktop\GitHub\Teknisk-Test-E-Komplet\TT_Service\TT_DataAccess\obj\Debug\net6.0\ref\TT_DataAccess.dll

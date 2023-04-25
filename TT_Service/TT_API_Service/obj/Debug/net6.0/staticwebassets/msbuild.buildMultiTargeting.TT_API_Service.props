@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TT_API_Service.props" />
+</Project>
