@@ -6,7 +6,18 @@ using System.Threading.Tasks;
 
 namespace TT_DataAccess.Model
 {
-    internal class Fitter
+    /// <summary>
+    /// Creates a Fitter object with the following properties:
+    /// </summary>
+    public class Fitter
     {
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public string PhoneNumber { get; set; }
+        public string JobTitle { get; set; }
+
+        public Fitter() 
+        { 
+        }
     }
 }
