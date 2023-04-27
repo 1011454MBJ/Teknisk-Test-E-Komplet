@@ -17,13 +17,13 @@ namespace TT_DataAccess.Repository
         private void Initialize()
         {
             // Opret forbindelse til SQL Server
-            string connectionString = "Server=.\\SQLExpress;Database=FitterTest;";//IntegratedSecurity=true;";
+            string connectionString = "Server=.\\SQLExpress;Database=FitterTest;Integrated Security=true;";
             SqlConnection connection = new SqlConnection(connectionString);
             // Åbn forbindelse til databasen
             connection.Open();
 
             // Udfør SQL-kommando
-            string sql = "SELECT TOP 1 FROM Fitters";
+            string sql = "SELECT TOP 1 * FROM Fitters";
             SqlCommand command = new SqlCommand(sql, connection);
             SqlDataReader reader = command.ExecuteReader();
 
