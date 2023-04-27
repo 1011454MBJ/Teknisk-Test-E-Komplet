@@ -27,7 +27,7 @@ namespace TT_DataAccess.Model
             connection.Open();
 
             // Udfør SQL-kommando
-            string sql = "SELECT * FROM Fiters";
+            string sql = "SELECT * FROM Fitters";
             SqlCommand command = new SqlCommand(sql, connection);
             SqlDataReader reader = command.ExecuteReader();
 

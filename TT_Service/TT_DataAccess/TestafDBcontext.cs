@@ -13,7 +13,7 @@ namespace TT_DataAccess
 
             try
             {
-                TTContext context = new TTContext();
+               // TTContext context = new TTContext();
                 //connection.Open();
 
                 //SqlCommand command = new SqlCommand("SELECT TOP 1 * FROM MyTable", connection);
@@ -27,12 +27,12 @@ namespace TT_DataAccess
             }
             catch (Exception ex)
             {
-                Console.WriteLine("Error: " + ex.Message);
+               // Console.WriteLine("Error: " + ex.Message);
             }
             finally
             {
                 //connection.Close();
-                Console.WriteLine("All done");
+                //Console.WriteLine("All done");
             }
 
         }
