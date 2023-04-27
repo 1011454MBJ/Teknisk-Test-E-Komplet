@@ -11,12 +11,22 @@ namespace TT_DataAccess.Model
     /// </summary>
     public class Foreman
     {
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
-        public string PhoneNumber { get; set; }
-        public string JobTitle { get; set; }
+        private string FirstName { get; set; }
+        private string LastName { get; set; }
+        private string PhoneNumber { get; set; }
+        private string JobTitle { get; set; }
+        private List<Fitter> FitterList { get; set; }
         public Foreman()
         {
+        }
+        public Foreman(string firstName, string lastName, string phoneNumber, string jobTitle)
+        {
+            FirstName = firstName;
+            LastName = lastName;
+            PhoneNumber = phoneNumber;
+            JobTitle = jobTitle;
+            FitterList = new List<Fitter>();
+            
         }
     }
 }

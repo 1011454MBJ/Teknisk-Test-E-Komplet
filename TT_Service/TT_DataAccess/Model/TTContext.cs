@@ -18,28 +18,30 @@ namespace TT_DataAccess.Model
             Initialize();
         }
 
-        private void Initialize() 
+        private string Initialize() 
         {
             // Opret forbindelse til SQL Server
-            string connectionString = "Server=.\\SQLExpress;Database=FitterTest;IntegratedSecurity=true;";
-            SqlConnection connection = new SqlConnection(connectionString);
+            string _connectionString = "Server=.\\SQLExpress;Database=FitterTest;Integrated Security=true;";
+            return _connectionString;
+            //SqlConnection connection = new SqlConnection(connectionString);
             // Åbn forbindelse til databasen
-            connection.Open();
+            //connection.Open();
 
-            // Udfør SQL-kommando
-            string sql = "SELECT * FROM Fitters";
-            SqlCommand command = new SqlCommand(sql, connection);
-            SqlDataReader reader = command.ExecuteReader();
+            //// Udfør SQL-kommando
+            //string sql = "SELECT * FROM Fitters";
+            //SqlCommand command = new SqlCommand(sql, connection);
+            //SqlDataReader reader = command.ExecuteReader();
 
-            // Læs data fra databasen
-            while (reader.Read())
-            {
-                Console.WriteLine(reader["FirstName"].ToString());
-            }
+            //// Læs data fra databasen
+            //while (reader.Read())
+            //{
+            //    Console.WriteLine(reader["FirstName"].ToString());
+            //}
 
-            // Luk forbindelsen til databasen
-            reader.Close();
-            connection.Close();
+            //// Luk forbindelsen til databasen
+            //reader.Close();
+            //connection.Close();
+            
         } 
     }
 }
